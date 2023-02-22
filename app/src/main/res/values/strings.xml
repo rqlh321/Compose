@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Compose</string>
+    <string name="main">Main</string>
+    <string name="screen_label_contacts">Contacts</string>
+</resources>

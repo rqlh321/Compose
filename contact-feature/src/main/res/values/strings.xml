@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="contact_avatar_description">Аватар контакта</string>
+    <string name="main_screen_error_title">Похоже нам не удалось загрузить список контактов\n\nпожалуйста попробуйте еще раз…</string>
+    <string name="main_screen_error_retry_button">Повторить</string>
+</resources>
